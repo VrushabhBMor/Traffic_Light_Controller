@@ -211,5 +211,5 @@
 
 <details>
    <summary>Results and the overview of the project</summary>
-Please find the attached pdf file named "Traffic
+Please find the attached pdf file named "Traffic Light Controller.pdf" for the overview of the project and the simulation results.
 </details>
